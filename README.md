@@ -8,13 +8,15 @@ I am currently in the 7th semester of my B. Tech. degree in Artificial Intellige
 My current interests are (but are not limited to) :
 
 -> Open Source
+
 -> Visualization
+
 -> Python development
+
 -> Automation
--> Web desi
--> Python development
--> Automation
+
 -> Web design
+
 -> Blogging (technical)
 
 🔭 I’m currently working on - Data Science & Machine Learning.
