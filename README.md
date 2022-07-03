@@ -17,4 +17,10 @@ My current interests are (but are not limited to) :
 -> Web design
 -> Blogging (technical)
 
-However, "All work and no play makes Jack a dull boy". I am a guitarist, and I love sports and listen to music when I am not working or studying.
+🔭 I’m currently working on - Data Science & Machine Learning.
+
+🌱 I’m currently learning - Deep learning, NLP, Computer Vision & Full-Stack web development.
+
+😄 Words that describe me - Self-motivated, Focused, Hardworking & curious.
+
+
