@@ -2,6 +2,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv0112&theme=algolia" alt="shiv0112" /></a> </p> -->
 
+<!-- ![](https://komarev.com/ghpvc/?username=shiv0112&color=green&style=for-the-badge) -->
+
 Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
 
 Like many others, my initial interest lay in Java programming, I was fascinated by building logic for simple programming problems. I realized my passion upon switching to Data analytics.
