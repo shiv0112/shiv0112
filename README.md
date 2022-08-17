@@ -1,6 +1,6 @@
 <h1 align="left">Hello 👋, I'm Shivansh Srivastava</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv0112&no-bg=true&column=3&margin-w=15&margin-h=15" alt="shiv0112" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv0112&theme=algolia" alt="shiv0112" /></a> </p>
 
 
 Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
