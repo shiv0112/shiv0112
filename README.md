@@ -33,7 +33,7 @@ My current interests are (but are not limited to) :
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv0112&show_icons=true&locale=en&layout=compact" alt="shiv0112"/>
 </p>
 
-<h3>My GitHub stats</h3>
+<h3>My GitHub Stats</h3>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiv0112&show_icons=true&locale=en" alt="shiv0112" />
 </p>
