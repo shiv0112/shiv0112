@@ -4,6 +4,8 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=shiv0112&color=green&style=for-the-badge) -->
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
 
 Like many others, my initial interest lay in Java programming, I was fascinated by building logic for simple programming problems. I realized my passion upon switching to Data analytics.
@@ -46,7 +48,7 @@ My current interests are (but are not limited to) :
 | ![Shivansh's github stats](https://github-readme-stats.vercel.app/api?username=shiv0112&show_icons=true&theme=radical) | ![Shivansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiv0112&theme=radical) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv0112&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=shiv0112&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) | 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="srivastava-shivansh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/srivastava-shivansh?trk=profile-badge">Ashish Diwakar</a></div> |
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="srivastava-shivansh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/srivastava-shivansh?trk=profile-badge">Shivansh Srivastava</a></div> |
               
 
 
