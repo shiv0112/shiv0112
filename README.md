@@ -42,7 +42,7 @@ My current interests are (but are not limited to) :
 <br>
   <br>
 
-
+![Shivansh's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shiv0112&theme=redical&hide_border=true&area=true)
 | ![Shivansh's github stats](https://github-readme-stats.vercel.app/api?username=shiv0112&show_icons=true&theme=radical) | ![Shivansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiv0112&theme=radical) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv0112&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=shiv0112&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) | 
