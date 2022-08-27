@@ -21,6 +21,7 @@ I am currently in the 7th semester of my B. Tech. degree in Artificial Intellige
 - 😄 Words that describe me - Self-motivated, Focused, Hardworking & curious.
 
 #### Languages and Tools:
+
 <img src="https://user-images.githubusercontent.com/74089340/185174868-bfe581b4-9c1f-4143-9a9e-52109102636c.png" width="" height="48">
 <img src="https://user-images.githubusercontent.com/74089340/185173473-c7abba76-594e-447e-8fbd-9f2d4b8c8c9b.png" width="" height="48">
 <img src="https://user-images.githubusercontent.com/74089340/185173849-6df8191d-3865-4f17-92fb-0a8d90d22fc5.png" width="" height="48">
