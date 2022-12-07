@@ -1,9 +1,4 @@
 <h1 align="left">Hello 👋, I'm Shivansh Srivastava</h1>
-# 🤵 About Me: [![Shivansh's profile views](https://visitcount.itsvg.in/api?id=shiv0112&icon=0&color=1)]
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv0112&theme=algolia" alt="shiv0112" /></a> </p> -->
-
-<!-- ![](https://komarev.com/ghpvc/?username=shiv0112&color=green&style=for-the-badge) -->
 
 Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
 
@@ -48,6 +43,8 @@ I am currently in the 7th semester of my B. Tech. degree in Artificial Intellige
 <br>
 <br>
   <br>
+  
+# 🤵 About Me: [![](https://visitcount.itsvg.in/api?id=shiv0112&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ![Shivansh's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shiv0112&theme=redical&hide_border=true&area=true)
 | ![Shivansh's github stats](https://github-readme-stats.vercel.app/api?username=shiv0112&show_icons=true&theme=radical) | ![Shivansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiv0112&theme=radical) |
