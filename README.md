@@ -1,4 +1,5 @@
 <h1 align="left">Hello 👋, I'm Shivansh Srivastava</h1>
+[![](https://visitcount.itsvg.in/api?id=shiv0112&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv0112&theme=algolia" alt="shiv0112" /></a> </p> -->
 
