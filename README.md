@@ -1,5 +1,9 @@
 <h1 align="left">Hello 👋, I'm Shivansh Srivastava</h1>
 
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv0112&theme=algolia" alt="shiv0112" /></a> </p> -->
+
+<!-- ![](https://komarev.com/ghpvc/?username=shiv0112&color=green&style=for-the-badge) -->
+
 Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
 
 Like many others, my initial interest lay in Java programming, I was fascinated by building logic for simple programming problems. I realized my passion upon switching to Data analytics.
@@ -36,22 +40,20 @@ I am currently in the 7th semester of my B. Tech. degree in Artificial Intellige
 <img src="https://user-images.githubusercontent.com/74089340/185174329-98c9ec72-ced7-4f71-9d00-c171a03b5aa5.png" width="" height="48">
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/srivastava-shivansh/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]
-(https://medium.com/@srivastavashiv0112)
+<a href = 'https://www.linkedin.com/in/srivastava-shivansh/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://medium.com/@srivastavashiv0112'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
+<a href = 'https://www.github.com/shiv0112'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 <br>
 <br>
   <br>
-  
-# 🤵 About Me: [![](https://visitcount.itsvg.in/api?id=shiv0112&icon=0&color=1)](https://visitcount.itsvg.in)
 
-![Shivansh's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-contribution-graph.ez4o.com/?username=shiv0112&last_n_days=60&img_url=https://64.media.tumblr.com/6ec38bd93156d8bbad11b5517fc0017a/b0089273b04e32af-32/s250x250_c1/f2151aba13cebb7c016f74aa76554a3ba0c33e49.gifv)
+![Shivansh's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shiv0112&theme=redical&hide_border=true&area=true)
 | ![Shivansh's github stats](https://github-readme-stats.vercel.app/api?username=shiv0112&show_icons=true&theme=radical) | ![Shivansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiv0112&theme=radical) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv0112&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=shiv0112&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) | 
 
-              
+
 
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
