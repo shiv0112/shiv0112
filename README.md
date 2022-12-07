@@ -44,7 +44,7 @@ I am currently in the 7th semester of my B. Tech. degree in Artificial Intellige
   
 # 🤵 About Me: [![](https://visitcount.itsvg.in/api?id=shiv0112&icon=0&color=1)](https://visitcount.itsvg.in)
 
-![Shivansh's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shiv0112&theme=redical&hide_border=true&area=true)
+![Shivansh's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-contribution-graph.ez4o.com/?username=shiv0112&last_n_days=60&img_url=https://64.media.tumblr.com/6ec38bd93156d8bbad11b5517fc0017a/b0089273b04e32af-32/s250x250_c1/f2151aba13cebb7c016f74aa76554a3ba0c33e49.gifv)
 | ![Shivansh's github stats](https://github-readme-stats.vercel.app/api?username=shiv0112&show_icons=true&theme=radical) | ![Shivansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiv0112&theme=radical) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv0112&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=shiv0112&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) | 
