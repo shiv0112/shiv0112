@@ -1,15 +1,21 @@
-<h1 align="left">Hey 👋, I'm Shivansh Srivastava</h1>
+<h1 align="left">Shivansh Srivastava</h1>
 
-Data fuels everything today — and I’m having fun building engines for it.  
-From training computer vision models that keep supply chains flowing, to crafting LLM-powered assistants that actually get what you’re asking, I love turning ideas into working AI systems.
+AI Systems Engineer | MComp (AI) @ National University of Singapore  
 
-I started my journey coding tiny Java programs, but somewhere along the way, Python, Machine Learning, and Generative AI stole the spotlight. Now, I’m pursuing my Master’s in AI at the National University of Singapore while building cool things with NLP, CV, and GenAI.
+I build production-grade AI systems — not just models.
 
-- 🔭 Currently exploring **Generative AI & RAG pipelines**
-- 🌱 Learning more about **cloud AI systems & production ML**
-- 🤝 Open to collabs on projects, articles, or just fun AI experiments
-- 💬 Happy to chat about **Python, AI systems, freelancing, and open source**
-- 😄 A few words about me: *curious, persistent, slightly caffeinated*
+My focus is on Generative AI, LLM infrastructure, and intelligent agent systems. 
+I care about how models are orchestrated, evaluated, optimized, and deployed at scale — from retrieval pipelines and multi-agent workflows to inference performance and backend architecture.
+
+With a foundation in deep learning and computer vision, I now specialize in NLP and GenAI systems that move beyond demos into real-world applications.
+
+- 🚀 Building: Agentic workflows, RAG systems, LLM-powered backends  
+- 🧠 Focus Areas: Generative AI, Retrieval Systems, Model Evaluation, AI Infrastructure  
+- ⚙️ Tech Stack: Python, FastAPI, LangGraph, PyTorch, Vector DBs, vLLM  
+- 📊 Interested in: Applied AI, Finance + AI systems, scalable ML deployment  
+- 🤝 Open to: Collaborations in GenAI, system design, and research-backed engineering  
+
+Always optimizing for clarity, performance, and real-world impact.
 
 ---
 
