@@ -2,12 +2,12 @@
 
 AI Systems Engineer | MComp (AI) @ National University of Singapore  
 
-I build production-grade AI systems — not just models.
+I build production-grade AI systems
 
 My focus is on Generative AI, LLM infrastructure, and intelligent agent systems. 
 I care about how models are orchestrated, evaluated, optimized, and deployed at scale — from retrieval pipelines and multi-agent workflows to inference performance and backend architecture.
 
-With a foundation in deep learning and computer vision, I now specialize in NLP and GenAI systems that move beyond demos into real-world applications.
+With a foundation in deep learning and computer vision, I now specialize in NLP and GenAI systems for real-world applications.
 
 - 🚀 Building: Agentic workflows, RAG systems, LLM-powered backends  
 - 🧠 Focus Areas: Generative AI, Retrieval Systems, Model Evaluation, AI Infrastructure  
