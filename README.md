@@ -24,11 +24,12 @@ MComp (Artificial Intelligence) @ National University of Singapore · Singapore
 ## GitHub stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=shiv0112&show_icons=true&theme=radical&hide_border=true" height="165" alt="shiv0112's GitHub stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv0112&theme=radical&hide_border=true" height="165" alt="shiv0112's GitHub streak" />
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv0112&layout=compact&theme=radical&hide_border=true" height="165" alt="shiv0112's top languages" />
+<img src="https://img.shields.io/github/followers/shiv0112?style=for-the-badge&logo=github&label=Followers&color=e94057" alt="followers" />
+<img src="https://img.shields.io/github/stars/shiv0112?style=for-the-badge&logo=github&affiliations=OWNER&label=Stars&color=e94057" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=shiv0112&style=for-the-badge&label=Profile+Views&color=e94057" alt="profile views" />
 </p>
 
 ---
