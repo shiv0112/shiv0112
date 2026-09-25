@@ -7,28 +7,6 @@ MComp (Artificial Intelligence) @ National University of Singapore · Singapore
 
 ---
 
-## Featured work
-
-**[Sprout](https://github.com/shiv0112/sprout)**: a self-evolving tool registry for AI agents. When an agent needs a tool that doesn't exist yet, Sprout plans the task, synthesizes the tool, and registers it, with no restart. It is usable from its chat UI, from any MCP client (Claude Desktop, Cursor, VS Code), or over HTTP.
-[Live demo](https://sprout-tool-registry.vercel.app/) · Python · MCP · agent planning
-
-**[YTSage](https://github.com/shiv0112/CS5260-project)**: a multi-agent pipeline that turns long YouTube lectures into short infographic video summaries. It works in five stages:
-1. Transcript ingestion, with a Whisper fallback.
-2. Semantic chunking into ChromaDB.
-3. A GPT-4o planner that picks the key concepts using RAG.
-4. A script writer.
-5. A video stitcher.
-
-NUS CS5260 · Python · ChromaDB · RAG · multi-agent
-
-**[Phishing Domain Detector](https://github.com/shiv0112/phishing_domain_detector)**: a phishing URL classifier trained on an 88k-domain dataset (Random Forest, grid-searched), shipped as a full MLOps pipeline with DVC stages, CI, tests, and a deployed web app.
-[Live demo](https://phishing-detector-rqld.onrender.com/) · Python · scikit-learn · DVC · GitHub Actions
-
-**[Automatic Number Plate Recognition](https://github.com/shiv0112/automatic_number_plate_detector)**: YOLOv5 plate detection + EasyOCR in a Streamlit app: upload a video, and it reads the plate and looks up the vehicle's details from Indian RTO records.
-Python · YOLOv5 · EasyOCR · OpenCV · Streamlit
-
----
-
 ## Background
 
 - 2+ years building production AI: LLM agents, MCP tooling, and edge computer vision (YOLOv9 → TFLite, 35% lower inference latency)
@@ -37,10 +15,21 @@ Python · YOLOv5 · EasyOCR · OpenCV · Streamlit
 
 ## Tech stack
 
-**LLMs & agents:** LangGraph · LangChain · MCP · RAG · vLLM
-**ML & vision:** PyTorch · YOLO · TFLite · OpenCV
-**Backend:** Python · FastAPI · ChromaDB / vector DBs
-**Infra & MLOps:** Docker · Kubernetes · Linux · DVC · GitHub Actions · AWS
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,kubernetes,aws,git,linux,opencv" height="48" alt="tech stack icons" />
+</p>
+
+---
+
+## GitHub stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=shiv0112&show_icons=true&theme=radical&hide_border=true" height="165" alt="shiv0112's GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv0112&theme=radical&hide_border=true" height="165" alt="shiv0112's GitHub streak" />
+</p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv0112&layout=compact&theme=radical&hide_border=true" height="165" alt="shiv0112's top languages" />
+</p>
 
 ---
 
